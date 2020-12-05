@@ -4,7 +4,23 @@
 }
 
 body{
-  
+  background-color: hsl(0, 0%, 81%);
+  font-family: "Barlow Semi Condensed";
+  font-size: 13px;
+}
+
+.card{
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  margin: 50px;
+  padding: 50px;
+}
+
+.img-circular {
+  width: 2%;
+  border: 2px solid #fff;
+  border-radius: 50%;
 }
 
 .attribution {
