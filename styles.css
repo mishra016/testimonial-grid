@@ -23,6 +23,27 @@ body{
   border-radius: 50%;
 }
 
+.bg-1{
+  background-color: hsl(263, 55%, 52%);
+}
+
+.bg-2{
+  background-color: hsl(217, 19%, 35%);
+}
+
+.bg-3{
+  background-color: hsl(219, 29%, 14%);
+}
+
+.one{
+  color: #fff;
+}
+
+.two{
+  color: hsl(217, 19%, 35%);
+  background-color: #fff;
+}
+
 .attribution {
   font-size: 11px; text-align: center;
 }
